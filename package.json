@@ -1,0 +1,17 @@
+{
+  "name": "v13-self-music-bot",
+  "version": "0.0.1",
+  "description": "Grup aramasında muzik çalmanızı yarayan bot işte",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "TheAxioma",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "discord.js-selfbot-v13": "^2.4.6",
+    "libsodium-wrappers": "^0.7.10",
+    "play-dl": "^1.9.5"
+  }
+}
