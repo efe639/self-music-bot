@@ -12,7 +12,6 @@
 
 # Hatırlatma!
 * Discord üzerinde bildiğin gibi self bot kullanımı yasak, eğer kapanırsan sorumluluğu ben almıyorum
-*
 
 # Contact
 * [Satuke İnstagram](https://instagram.com/satukecim)
